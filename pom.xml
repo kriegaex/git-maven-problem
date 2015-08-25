@@ -4,7 +4,12 @@
 
     <groupId>de.scrum-master</groupId>
     <artifactId>git-maven-problem</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.1-SNAPSHOT</version>
+
+    <scm>
+        <developerConnection>scm:git:https://github.com/kriegaex/git-maven-problem.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <plugins>
